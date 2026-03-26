@@ -1,6 +1,6 @@
 # Problem Solving Journey 🚀
 
-This repository contains my solutions for **Codeforces** problems. My goal is to build a strong algorithmic background and master data structures through consistent practice.
+This repository contains my solutions for problems. My goal is to build a strong algorithmic background and master data structures through consistent practice.
 
 ## 🏆 Profile
 * **Codeforces:** [MID0_o](https://codeforces.com/profile/MID0_o)
