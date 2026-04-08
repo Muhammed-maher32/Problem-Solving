@@ -7,7 +7,7 @@ This repository contains my solutions for problems. My goal is to build a strong
 * **Leetcode:** [MID0_o](https://leetcode.com/u/MID0_o/)
 
 ## 🛠️ Tech Stack
-* **Language:** C++
+* **Language:** C++ , C#
 * **Environment:** VS Code / Competitive Programming templates.
 ---
 *“Done is better than perfect. Keep coding!”*
