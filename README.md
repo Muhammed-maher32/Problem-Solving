@@ -10,4 +10,7 @@ This repository contains my solutions for problems. My goal is to build a strong
 * **Language:** C++ , C#
 * **Environment:** VS Code / Competitive Programming templates.
 ---
-*“Done is better than perfect. Keep coding!”*
+## Author
+**Mohamed Maher**
+
+*“Done is better than perfect.”*
